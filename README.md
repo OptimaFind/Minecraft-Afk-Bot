@@ -4,7 +4,7 @@ Hello github user, you can run index.js file from windows, linux terminal and te
 For Windows
 
 step 1
-Open nodejs.org and download
+Open __ nodejs.org __ and download
 Check the Path box in the installation wizard
 
 step 2
