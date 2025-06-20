@@ -18,5 +18,11 @@ git clone https://github.com/OptimaFind/Minecraft-Afk-Bot.git
 
 cd Minecraft-Afk-Bot
 
+Nano Minecraft-Afk-Bot
+
+find YOUR SERVER İP and change
+
+Dave (CTRL C)
+
 node index.js
 
