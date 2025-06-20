@@ -22,7 +22,7 @@ Nano Minecraft-Afk-Bot
 
 find YOUR SERVER İP and change
 
-Dave (CTRL C)
+Save (CTRL C)
 
 node index.js
 
