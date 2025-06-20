@@ -3,11 +3,20 @@ Hello github user, you can run index.js file from windows, linux terminal and te
 
 For Windows
 
-step 1
 Open __ nodejs.org __ and download
-Check the Path box in the installation wizard
-
-step 2
-You must download my index.js file
+Check the Path box in the installation wizard.You must download my index.js file
 And click .js file
 The file will work
+
+For Linux and Termux
+
+sudo apt update
+
+sudo apt install nodejs npm
+
+git clone https://github.com/OptimaFind/Minecraft-Afk-Bot.git
+
+cd Minecraft-Afk-Bot
+
+node index.js
+
