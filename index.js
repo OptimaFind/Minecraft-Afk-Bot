@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 // Botu başlatan fonksiyon
 function startBot() {
   const bot = mineflayer.createBot({
-    host: 'Kings_here.aternos.me',  // Aternos sunucusunun adı
+    host: 'YOUR SERVER İP',  // Aternos sunucusunun adı
     port: 60824,                   // Aternos portu
     username: 'AFKBot123'          // Botun kullanıcı adı
   });
